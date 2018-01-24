@@ -6,6 +6,21 @@
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Film",
 	"tv": [{
+		"name": "25-sai no Joshikousei",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/89091.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Kazefuri",
+				"url": "https://www.google.com/url?q=http://www.kazefuri.com/search/label/25-sai%2520no%2520Joshikousei&sa=D&ust=1516799205744000&usg=AFQjCNE3e57Z5oA_1S_IeoCF1K3ucDjnjw"
+			},{
+				"name": "NekoPoi",
+				"url": "https://www.google.com/url?q=http://nekopoi.trade/hentai/25-sai-no-joshikousei/&sa=D&ust=1516799205744000&usg=AFQjCNHdjfFV1w9f74sM_9zhyR0Y-s57FQ"
+			},{
+				"name": "NinkiSubs",
+			}]
+		}]
+	}, {
 			"name": "Basilisk: Ouka Ninpouchou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88384.jpg",
 			"group": [{
